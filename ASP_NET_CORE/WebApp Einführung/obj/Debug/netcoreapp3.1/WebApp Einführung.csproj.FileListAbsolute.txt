@@ -1,0 +1,34 @@
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.exe
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.deps.json
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.runtimeconfig.json
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.runtimeconfig.dev.json
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.dll
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.pdb
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.Views.dll
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\bin\Debug\netcoreapp3.1\WebApp Einführung.Views.pdb
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.csprojAssemblyReference.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.AssemblyInfoInputs.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.AssemblyInfo.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.csproj.CoreCompileInputs.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.RazorAssemblyInfo.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.RazorAssemblyInfo.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.TagHelpers.input.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.TagHelpers.output.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.RazorCoreGenerate.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.RazorTargetAssemblyInfo.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.RazorTargetAssemblyInfo.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.Views.pdb
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\staticwebassets\WebApp Einführung.StaticWebAssets.Manifest.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\staticwebassets\WebApp Einführung.StaticWebAssets.xml
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.dll
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.pdb
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.genruntimeconfig.cache
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\WebApp Einführung.csproj.CopyComplete
