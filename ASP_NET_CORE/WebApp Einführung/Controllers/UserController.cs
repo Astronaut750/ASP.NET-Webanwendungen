@@ -6,17 +6,17 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApp_Einführung.Controllers
 {
-    public class HomeController : Controller
+    public class UserController : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult AboutUs()
+        public IActionResult Register()
         {
             return View();
         }
-        public IActionResult Impressum()
+        public IActionResult Login()
         {
             return View();
         }

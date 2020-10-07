@@ -108,3 +108,10 @@ C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Weban
 C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
 C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Navigation.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Home\Impressum.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Refund.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Footer.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\schul\OneDrive - HTL Anichstrasse\4AHWII\SWP Vogt Jürgen\ASP.NET-Webanwendungen\ASP_NET_CORE\WebApp Einführung\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs

@@ -16,6 +16,11 @@ namespace WebApp_Einführung.Controllers
             return View();
         }
 
+        public IActionResult Refund()
+        {
+            return View();
+        }
+
         private List<Article> CreateArticleList()
         {
             return new List<Article>()
