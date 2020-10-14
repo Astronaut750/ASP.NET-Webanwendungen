@@ -12,8 +12,7 @@ namespace WebApp_Einführung.Controllers
         public IActionResult Index()
         {
             // normalerweise würden alle Artikel aus einer DB-Tabelle geladen
-            List<Article> actricles = CreateArticleList();
-            return View();
+            return View(CreateArticleList());
         }
 
         public IActionResult Refund()
@@ -26,9 +25,9 @@ namespace WebApp_Einführung.Controllers
             return new List<Article>()
             {
                 new Article(1, "iPhone 11", "Apple", new DateTime(2020, 3, 18), 999.90m, "Handy"),
-                new Article(1, "Aspire", "Acer", new DateTime(2015, 1, 5), 499.90m, "Laptop"),
-                new Article(1, "DeathAdder v2", "Razer", new DateTime(2020, 12, 14), 69.90m, "Elektrogerät"),
-                new Article(1, "ASP.NET MVC", "Apres", new DateTime(2020, 10, 1), 49.90m, "Buch")
+                new Article(2, "Aspire", "Acer", new DateTime(2015, 1, 5), 499.90m, "Laptop"),
+                new Article(3, "DeathAdder v2", "Razer", new DateTime(2020, 12, 14), 69.90m, "Elektrogerät"),
+                new Article(4, "ASP.NET MVC", "Apres", new DateTime(2020, 10, 1), 49.90m, "Buch")
             };
         }
     }
