@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt Jürgen\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj": {}
+    "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt Jürgen\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj": {
+    "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt Jürgen\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj",
+        "projectUniqueName": "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj",
         "projectName": "WebApp Einführung",
-        "projectPath": "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt Jürgen\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj",
+        "projectPath": "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\WebApp Einführung.csproj",
         "packagesPath": "C:\\Users\\schul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt Jürgen\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\obj\\",
+        "outputPath": "C:\\Users\\schul\\OneDrive - HTL Anichstrasse\\4AHWII\\SWP Vogt\\ASP.NET-Webanwendungen\\ASP_NET_CORE\\WebApp Einführung\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\schul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -41,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

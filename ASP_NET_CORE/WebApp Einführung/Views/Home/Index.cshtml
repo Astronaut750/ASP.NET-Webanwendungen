@@ -3,8 +3,116 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h3>Formular nur mit HTML erzeugen</h3>
 
-<p>
-    unsere Startseite
-</p>
+<!--
+    form ... Formular erzeugen
+    action ... wohin soll das Formular gesendet werden
+    method ... Methode der Formularübermittlung
+        post ... die Daten sind nicht sichtbar
+        get ... die Daten sind in der Adresszeile des Browsers sichtbar
+-->
+
+<form action="/home/checkForm" method="post">
+    <!-- Beschriftungsfeld -->
+    <label for="firstname">Vorname</label><br />
+    <!-- input type="text" ... einzeiliges Textfeld
+            id, name sind für C#, JS und CSS wichtig
+        -->
+    <input type="text" id="firstname" name="firstname" /><br /><br />
+
+    <!-- textarea ... mehrzeiliges Textfeld
+
+        -->
+    <label for="description">Beschreibung</label><br />
+    <textarea id="description" name="description" rows="10" cols="50">Bitte Beschreibung eingeben</textarea>
+    <br /><br />
+
+    <label for="gender">Geschlecht</label><br />
+
+    <!--
+        type="radio" ... Radiobuttons (für die Auswahl eines einzigen Elements)
+        value ... dieser Wert wird an den Server übertragen
+        wichtig: damit nur ein einziges Element ausgewählt werden kann, müssen
+            alle zusammengehörenden Elemente den gleichen Wert bei name (name="gender") haben
+    -->
+
+    <input type="radio" id="gender" name="gender" value="male" /> Männlich<br />
+    <input type="radio" id="gender" name="gender" value="female" /> Weiblich<br />
+    <input type="radio" id="gender" name="gender" value="notSpecified" /> nicht angegeben<br /><br />
+
+    <label for="hobbys">Hobbies</label><br />
+
+    <!--
+        type="checkbox" ... Checkboxen (für die Auswahl mehrerer Elemente)
+        value ... dieser Wert wird an den Server übertragen
+    -->
+
+    <input type="checkbox" id="hobbys" name="hobbys" value="sports" /> Sport<br />
+    <input type="checkbox" id="hobbys" name="hobbys" value="reading" /> Lesen<br />
+    <input type="checkbox" id="hobbys" name="hobbys" value="gaming" /> Gamen<br /><br />
+
+
+    <label for="departments">Abteilungen</label><br />
+    <select id="department" name="department">
+        <option value="wi">Wirtschaftsingenieure</option>
+        <option value="ma">Maschinenbau</option>
+        <option value="el">Elektronik</option>
+        <option value="et">Elektrotechnik</option>
+        <option value="bm">Biomedizin</option>
+        <option value="none" selected="selected">bitte auswählen</option>
+    </select><br /><br />
+
+    <!--
+        Auswahlliste: size="4" ... 4 Elemente gleichzeitig anzeigen
+                      multiple ... mehrere Elemente können ausgewählt werden
+    -->
+
+    <label for="colors">Lieblingsfarbe</label><br />
+    <select id="colors" name="colors" size="4" multiple="multiple">
+        <option value="red">rot</option>
+        <option value="green">grün</option>
+        <option value="blue">blau</option>
+        <option value="white">weiß</option>
+        <option value="black">schwarz</option>
+    </select><br /><br />
+
+
+    <label for="sinnlos">verstecktes Feld</label><br />
+    <input type="hidden" name="productID" id="productID" />
+
+    <!-- buttons
+        input type="submit" ... zum Absenden des Formulars
+        input type="reset" ... zum Zurücksetzen des Formulars
+        <button> ... für beliebige Buttons
+    -->
+
+    <input type="submit" value="absenden" />
+    <input type="reset" value="Werte zurücksetzen" />
+    <button>klick mich</button><br /><br />
+
+    <!--
+        spezielle input-Typen
+    -->
+
+    <label for="color1">Farbauswahl</label><br />
+    <input type="color" name="color1" id="color1" /><br /><br />
+
+    <label for="date1">Datum</label><br />
+    <input type="date" name="date1" id="date1" /><br /><br />
+
+    <label for="file1">File: </label><br />
+    <input type="file" name="file1" id="file1" /><br /><br />
+
+    <label for="age">Alter</label><br />
+    <input type="number" name="age" id="age" value="20" /><br /><br />
+
+    <label for="pwd">Passwort</label><br />
+    <input type="password" name="pwd" id="pwd" /><br /><br />
+
+    <label for="range1">Bereich</label><br />
+    <label for="range1">100</label>
+    <input type="range" name="range1" id="range1" min="100" max="140" value="105" />
+    <label for="range1">140</label><br /><br />
+
+</form>
